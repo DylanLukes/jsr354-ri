@@ -49,7 +49,7 @@
 		<basedir>.</basedir>
 
 		<!-- dependency versions -->
-		<okhttp.version>4.12.0</okhttp.version>
+		<okhttp.version>5.0.0-alpha.12</okhttp.version>
 		<testng.version>7.9.0</testng.version>
 		<additionalparam>-Xdoclint:none</additionalparam>
 
